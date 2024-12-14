@@ -83,8 +83,7 @@ header .header-info {
     justify-content: center;
     text-align: center;
     gap: -3px;
-    padding-TOP: 400px;
-    border: 2PX SOLID RED;
+    padding-TOP: 100px;
 }
 .infoimportante a {
     margin: 0px 0 0 0;
