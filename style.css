@@ -84,6 +84,7 @@ header .header-info {
     text-align: center;
     gap: -3px;
     padding-TOP: 40px;
+    border: 2PX SOLID RED;
 }
 .infoimportante a {
     margin: 0px 0 0 0;
